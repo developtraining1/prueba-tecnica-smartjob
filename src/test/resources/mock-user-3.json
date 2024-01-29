@@ -1,0 +1,18 @@
+{
+  "id": "h35hwr3h14eah1ahg",
+  "name": "Lale",
+  "email": "lale@gmail.com",
+  "password": "hol2aF$Amail.com",
+  "created": "17-01-2024 14:25",
+  "modified": "17-01-2024 14:25",
+  "lastLogin": "17-01-2024 14:25",
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsYWxlQGdtYWlsLmNvbSIsImlhdCI6MTcwNTUxOTU1MCwiZXhwIjoxNzA1NTI0OTUwfQ.y7ghn_Ce2JJOxGpJJhEVb9VBqCJZ68KaULpgDxIBKEo",
+  "isActive": true,
+  "phones": [
+    {
+      "number": "523964521",
+      "citycode": "5",
+      "countrycode": "18"
+    }
+  ]
+}

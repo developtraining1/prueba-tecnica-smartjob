@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Risel",
+    "email": "montal@gmail.com",
+    "password": "*******",
+    "created": "17-01-2024 14:20",
+    "modified": "17-01-2024 14:20",
+    "lastLogin": "17-01-2024 14:20",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJwZXJyYUBnbWFpbC5jb20iLCJpYXQiOjE3MDU1MTkyMzgsImV4cCI6MTcwNTUyNDYzOH0.cS-9_MnfMpBTn5mmLeDzf3fwmjjqbJ49FlFTsn_sslg",
+    "isActive": true,
+    "phones": [
+      {
+        "number": "543223998",
+        "citycode": "2",
+        "countrycode": "55"
+      }
+    ]
+  },
+  {
+    "name": "Sara",
+    "email": "sara@gmail.com",
+    "password": "*******",
+    "created": "17-01-2024 14:25",
+    "modified": "17-01-2024 14:25",
+    "lastLogin": "17-01-2024 14:25",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzYXJhQGdtYWlsLmNvbSIsImlhdCI6MTcwNTUxOTUwNCwiZXhwIjoxNzA1NTI0OTA0fQ.QVnlPNYQENVdC-BEEJMMjJjvRBVyub0tBKmXyJ8sAQs",
+    "isActive": true,
+    "phones": [
+      {
+        "number": "123456859",
+        "citycode": "1",
+        "countrycode": "58"
+      }
+    ]
+  },
+  {
+    "name": "Lale",
+    "email": "lale@gmail.com",
+    "password": "*******",
+    "created": "17-01-2024 14:25",
+    "modified": "17-01-2024 14:25",
+    "lastLogin": "17-01-2024 14:25",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsYWxlQGdtYWlsLmNvbSIsImlhdCI6MTcwNTUxOTU1MCwiZXhwIjoxNzA1NTI0OTUwfQ.y7ghn_Ce2JJOxGpJJhEVb9VBqCJZ68KaULpgDxIBKEo",
+    "isActive": true,
+    "phones": [
+      {
+        "number": "523964521",
+        "citycode": "5",
+        "countrycode": "18"
+      }
+    ]
+  }
+]

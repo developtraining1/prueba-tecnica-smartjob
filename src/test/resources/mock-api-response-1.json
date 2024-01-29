@@ -1,0 +1,20 @@
+{
+  "message": "Usuario creado satisfactoriamente",
+  "response": {
+    "name": "Risel",
+    "email": "montal@gmail.com",
+    "password": "*******",
+    "created": "17-01-2024 07:04",
+    "modified": "17-01-2024 07:04",
+    "lastLogin": "17-01-2024 07:04",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJwZXJyYUBnbWFpbC5jb20iLCJpYXQiOjE3MDU0OTMwNjgsImV4cCI6MTcwNTQ5ODQ2OH0.nya1By76C8Hn6LbEhBHQgre20siQ4zdcmBwW7HMoJ4I",
+    "isActive": true,
+    "phones": [
+      {
+        "number": "543223998",
+        "citycode": "2",
+        "countrycode": "55"
+      }
+    ]
+  }
+}
