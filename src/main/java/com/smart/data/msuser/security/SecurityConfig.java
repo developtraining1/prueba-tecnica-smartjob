@@ -26,7 +26,7 @@ public class SecurityConfig {
     @Autowired
     private JwtAuthFilter authFilter;
 
-    private static final String[] WHITE_LIST = {"/auth/addNewUser", "/auth/generateToken", "/h2-console/**", "/doc/swagger-ui/**"};
+    private static final String[] WHITE_LIST = {"/auth/addNewUser", "/auth/generateToken", "/h2-console/**", "/doc/swagger-ui/**" , "/v3/api-docs/**"};
 
     private static final String[] ROLE_REQUIRED_LIST = {"/user/all/**", "/user/find/**", "/user/create/**", "/h2-console/**"};
 
