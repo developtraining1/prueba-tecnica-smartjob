@@ -1,0 +1,12 @@
+version: "3.8"
+services:  
+  msuser:
+    build: .
+    container_name: "smartjob-container"
+    ports:
+      - 8080:8080
+    networks:
+      - smartjob      
+      
+networks:
+  smartjob:
